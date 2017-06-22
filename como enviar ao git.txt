@@ -1,0 +1,11 @@
+1 - entrar na pasta (comando cd)
+ 
+2 - git remote add origin git@github.com:robson-dmtt/repositorio.git
+
+3 - git add .    (para adicionar arquivos)
+
+4 - git status (para verificar)
+
+5 - git commit -m "mensagem"(salvar o commit)
+
+6 - git push -u origin master
