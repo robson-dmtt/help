@@ -9,3 +9,9 @@
 5 - git commit -m "mensagem"(salvar o commit)
 
 6 - git push -u origin master
+
+
+*********************
+$ git rm -r nomedapasta    (para deletar a pasta)
+
+continua no passo 5 e 6
